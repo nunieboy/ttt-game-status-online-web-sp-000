@@ -59,5 +59,4 @@ def winner(board)
     position = won?(board)
     board[position[0]]
   end
-  false
 end
